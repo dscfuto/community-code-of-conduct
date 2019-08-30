@@ -3,7 +3,18 @@
 
 ## Our Goal
 
-This community is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
+This community is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.Our goal is to create Impact.
+ Impact students, and empower them to impact 
+their communities through technology.
+
+
+## About DSC FUTO
+Developer Student Clubs (DSC)  is program presented by Google Developers. DSCs are university based community groups for students. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a DSC FUTO, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.
+Developer Student Clubs bridge the gap between Theory and Practical Application for student developers. 
+
+## Wher Did we come from?
+DSC launched in 2017 as a pilot in India to help solve the challenges university graduates were facing securing employment in the tech industry. We aimed to provide students with the resources, opportunities and, experience necessary to be industry ready,  all while still pursuing their degrees.
+Since then, the program grew to Indonesia and Africa. This year we are growing globally. From Asia to Africa; Europe, parts of the Middle East and North America- DSCs are training thousands of student developers and working with their communities to solve real-life problems- Check out some of our stories to learn more. We are going to be in 700 universities across the globe by fall 2019!
 
 ## Applicability and Scope
 
